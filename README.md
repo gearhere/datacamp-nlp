@@ -8,7 +8,9 @@ Notes and review of nlp courses on DataCamp.
     |   |-- 1. Introduction to Regular Expressions.ipynb
     |   |-- 2. Simple Topic Identification.ipynb
     |   |-- 3. Named Entity Recognition.ipynb
+    |   |-- 4. Building a Fake News Classifier.ipynb
     |   |-- img
+    |       |-- nlplibrary.jpg
     |       |-- preprocessing.png
     |-- Sentiment-Analysis-in-Python
 ```
