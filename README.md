@@ -12,6 +12,7 @@ Notes and review of nlp courses on DataCamp.
     |   |-- img
     |       |-- nlplibrary.jpg
     |       |-- preprocessing.png
+    |       |-- wordsentiment.png
     |-- Sentiment-Analysis-in-Python
 ```
 
